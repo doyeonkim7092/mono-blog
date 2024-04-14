@@ -1,0 +1,11 @@
+#MONOREPO
+lerna
+
+#SERVER
+nestJS
+
+#CLIENT
+reactJS
+
+#PACKAGE MANAGE
+yarn
